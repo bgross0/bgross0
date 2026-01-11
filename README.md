@@ -78,13 +78,33 @@ Full-stack developer specializing in **ERP / CRM business systems** and modern w
 
 <div align="center">
 
-| Freeform | VibeSDK Production |
-| ----------- | ----------- |
-| [![Freeform](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=freeform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/freeform) | [![VibeSDK](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=vibesdk-production&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/vibesdk-production) |
+### [🔷 Freeform](https://github.com/bgross0/freeform)
+Self-hosted form backend on Cloudflare Workers
 
-| ClaudeAgent | Who-Where-What |
-| ----------- | ----------- |
-| [![ClaudeAgent](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=ClaudeAgent&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/ClaudeAgent) | [![Party Game](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=Who-Where-What&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/Who-Where-What) |
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### [🎮 VibeSDK Production](https://github.com/bgross0/vibesdk-production)
+Production TypeScript SDK
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### [🤖 ClaudeAgent](https://github.com/bgross0/ClaudeAgent)
+AI-powered agent in Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### [🎲 Who-Where-What](https://github.com/bgross0/Who-Where-What)
+Digital party game - Person, Place, Thing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
