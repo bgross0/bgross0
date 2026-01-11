@@ -24,11 +24,11 @@ Full-stack developer specializing in **ERP / CRM business systems** and modern w
 
 | GitHub Stats | Contribution Streak |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bgross0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&ring_color=F85D7F" /> | <img src="https://streak-stats.demolab.com/?user=bgross0&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=F8D866&sideLabels=F8D866&dates=8B8B8B" /> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bgross0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866) | ![Streak Stats](https://streak-stats.demolab.com?user=bgross0&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F) |
 
 | Top Languages | Contribution Graph |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bgross0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" /> |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgross0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866) |
 
 </div>
 
@@ -36,7 +36,7 @@ Full-stack developer specializing in **ERP / CRM business systems** and modern w
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=bgross0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=bgross0&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -44,13 +44,13 @@ Full-stack developer specializing in **ERP / CRM business systems** and modern w
 
 <div align="center">
 
-| Profile Summary | Repos by Language |
+| Profile Summary | Language Stats |
 | ----------- | ----------- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgross0&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgross0&theme=radical" /> |
+| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgross0&theme=radical) | ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgross0&theme=radical) |
 
-| Commit Language Stats | Productive Time |
+| Commits & Stats | Productive Hours |
 | ----------- | ----------- |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgross0&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bgross0&theme=radical&utcOffset=-5" /> |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgross0&theme=radical) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bgross0&theme=radical&utcOffset=-5) |
 
 </div>
 
