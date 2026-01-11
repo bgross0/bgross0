@@ -86,6 +86,22 @@ Self-hosted form backend on Cloudflare Workers
 
 ---
 
+### [🔧 Cloudflare Maintenance Page](https://github.com/bgross0/cloudflare-maintenance-page)
+Beautiful maintenance mode for Cloudflare Workers with hidden admin access
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### [📄 PDF Invoice Parser](https://github.com/bgross0/pdf-invoice-parser)
+TypeScript PDF parser with OCR support for extracting invoice data
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF.js-FF6B00?style=flat-square&logo=adobe&logoColor=white)
+
+---
+
 ### [🎲 Who-Where-What](https://github.com/bgross0/Who-Where-What)
 Digital party game - Person, Place, Thing
 
