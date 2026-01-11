@@ -6,48 +6,71 @@
 
 </div>
 
-<h4 align="center">
-  <a href="https://github.com/bgross0?tab=repositories">Repositories</a>
-  •
-  <a href="https://github.com/bgross0?tab=stars">Stars</a>
-  •
-  <a href="#tech-stack">Tech Stack</a>
-</h4>
-
 ## About Me
 
-I'm a full-stack developer specializing in **Odoo ERP systems** and modern web applications. I build custom business solutions, CRM systems, and scalable applications.
+Full-stack developer specializing in **Odoo ERP systems** and modern web applications. I build custom business solutions, CRM systems, and scalable applications.
 
-**What I'm working on:**
+**Currently working on:**
 - 🏢 Custom Odoo ERP/CRM implementations (Axsys, Atlas, Precision)
 - 🌐 Modern web applications with Astro and TypeScript
 - 📱 Cross-platform mobile applications
 - 🔧 DevOps automation and infrastructure
 
-**Open to:**
-- Freelance Odoo development projects
-- Business automation consulting
-- Open source collaboration
+**Open to:** Freelance Odoo projects • Business automation consulting • Open source collaboration
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Stats | Streak |
+| GitHub Stats | Contribution Streak |
 | ----------- | ----------- |
-|<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bgross0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />|<img src="https://streak-stats.demolab.com/?user=bgross0&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" />|
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bgross0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&ring_color=F85D7F" /> | <img src="https://streak-stats.demolab.com/?user=bgross0&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=F8D866&sideLabels=F8D866&dates=8B8B8B" /> |
 
-| Top Languages | Activity Graph |
+| Top Languages | Contribution Graph |
 | ----------- | ----------- |
-|<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bgross0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />|<img src="https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" />|
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bgross0&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" /> |
 
 </div>
 
-## Tech Stack
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=bgross0&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+## 📈 Advanced Metrics
 
 <div align="center">
 
-### Core Technologies
+| Profile Summary | Repos by Language |
+| ----------- | ----------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgross0&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgross0&theme=radical" /> |
+
+| Commit Language Stats | Productive Time |
+| ----------- | ----------- |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgross0&theme=radical" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bgross0&theme=radical&utcOffset=-5" /> |
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgross0/bgross0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgross0/bgross0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bgross0/bgross0/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,38 +79,40 @@ I'm a full-stack developer specializing in **Odoo ERP systems** and modern web a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Platforms
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Databases & DevOps
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
-[![Odoo MCP Server](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=mcp-server-odoo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/mcp-server-odoo)
-[![Freeform](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=freeform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/freeform)
+| Odoo MCP Server | Freeform |
+| ----------- | ----------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=mcp-server-odoo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/mcp-server-odoo) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=freeform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/freeform) |
 
 </div>
 
-## Latest Activity
+## 📝 Latest Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -104,6 +129,6 @@ I'm a full-stack developer specializing in **Odoo ERP systems** and modern web a
 
 <div align="center">
 
-<sub>Building solutions one commit at a time</sub>
+**Building solutions one commit at a time**
 
 </div>
