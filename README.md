@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Brian 👋</h1>
+<h1 align="center">Hey, I'm Ben 👋</h1>
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 
 ## About Me
 
-Full-stack developer specializing in **Odoo ERP systems** and modern web applications. I build custom business solutions, CRM systems, and scalable applications.
+Full-stack developer specializing in **ERP / CRM business systems** and modern web applications. I build custom business tools, CRM systems, and scalable applications.
 
 **Currently working on:**
-- 🏢 Custom Odoo ERP/CRM implementations (Axsys, Atlas, Precision)
-- 🌐 Modern web applications with Astro and TypeScript
-- 📱 Cross-platform mobile applications
-- 🔧 DevOps automation and infrastructure
+- 🏢 Custom ERP/CRM implementations https://getprogrid.com
+- 🌐 Modern web applications with Astro and TypeScript https://opensky.axsys.dev & https://radar.axsys.dev
+- 📱 Cross-platform mobile applications (in development!)
+- 🔧 DevOps automation and infrastructure - (Freeform and more!)
 
-**Open to:** Freelance Odoo projects • Business automation consulting • Open source collaboration
+**Open to:** Freelance projects • Business automation consulting • Open source collaboration
 
 ## 📊 GitHub Statistics
 
