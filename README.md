@@ -101,9 +101,13 @@ Full-stack developer specializing in **Odoo ERP systems** and modern web applica
 
 <div align="center">
 
-| Odoo MCP Server | Freeform |
+| Freeform | VibeSDK Production |
 | ----------- | ----------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=mcp-server-odoo&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/mcp-server-odoo) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=freeform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/freeform) |
+| [![Freeform](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=freeform&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/freeform) | [![VibeSDK](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=vibesdk-production&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/vibesdk-production) |
+
+| ClaudeAgent | Who-Where-What |
+| ----------- | ----------- |
+| [![ClaudeAgent](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=ClaudeAgent&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/ClaudeAgent) | [![Party Game](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=Who-Where-What&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bgross0/Who-Where-What) |
 
 </div>
 
