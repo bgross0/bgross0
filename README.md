@@ -102,6 +102,14 @@ TypeScript PDF parser with OCR support for extracting invoice data
 
 ---
 
+### [🎙️ Jarvis Voice Assistant](https://github.com/bgross0/jarvis-voice-assistant)
+Real-time voice assistant with Claude AI, streaming STT/TTS, and wake word activation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+---
+
 ### [🎲 Who-Where-What](https://github.com/bgross0/Who-Where-What)
 Digital party game - Person, Place, Thing
 
