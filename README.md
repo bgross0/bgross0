@@ -2,10 +2,11 @@
 
 # 👋 Hey, I'm bgross0!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Building+Cool+Stuff+Daily" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/bgross0?label=Follow&style=social)](https://github.com/bgross0)
 [![Profile Views](https://komarev.com/ghpvc/?username=bgross0&color=blueviolet&style=flat)](https://github.com/bgross0)
+![GitHub User's stars](https://img.shields.io/github/stars/bgross0?affiliations=OWNER&style=social)
 
 </div>
 
@@ -63,116 +64,72 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-### 📌 Pinned Repositories
+### 📈 Overall Statistics
 
-</div>
-
-<!-- Automatically displays your pinned repos -->
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/bgross0/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/bgross0/another-cool-project)
-
-</div>
-
-### 💼 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 Project Name 1
-**[View Repository →](https://github.com/bgross0/project-name)**
-
-A brief description of what this project does and why it's awesome. Highlight the key features and technologies used.
-
-**Tech Stack:** `Python` `React` `PostgreSQL` `Docker`
-
-![Stars](https://img.shields.io/github/stars/bgross0/project-name?style=social)
-![Forks](https://img.shields.io/github/forks/bgross0/project-name?style=social)
-
-</td>
-<td width="50%">
-
-#### 🔥 Project Name 2
-**[View Repository →](https://github.com/bgross0/project-name-2)**
-
-Another amazing project that showcases your skills. Explain what problem it solves or what makes it unique.
-
-**Tech Stack:** `Node.js` `Next.js` `MongoDB` `AWS`
-
-![Stars](https://img.shields.io/github/stars/bgross0/project-name-2?style=social)
-![Forks](https://img.shields.io/github/forks/bgross0/project-name-2?style=social)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### ⚡ Project Name 3
-**[View Repository →](https://github.com/bgross0/project-name-3)**
-
-Describe this project and what you learned while building it. Share interesting challenges you overcame.
-
-**Tech Stack:** `TypeScript` `Vue.js` `FastAPI` `Redis`
-
-![Stars](https://img.shields.io/github/stars/bgross0/project-name-3?style=social)
-![Forks](https://img.shields.io/github/forks/bgross0/project-name-3?style=social)
-
-</td>
-<td width="50%">
-
-#### 🌟 Project Name 4
-**[View Repository →](https://github.com/bgross0/project-name-4)**
-
-Your fourth featured project. Make it count by showcasing diversity in your skill set.
-
-**Tech Stack:** `Go` `React Native` `Kubernetes` `GraphQL`
-
-![Stars](https://img.shields.io/github/stars/bgross0/project-name-4?style=social)
-![Forks](https://img.shields.io/github/forks/bgross0/project-name-4?style=social)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bgross0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bgross0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bgross0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgross0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+### 💻 Language Breakdown
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgross0&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bgross0&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+
+### 🏆 Achievement Showcase
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bgross0&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bgross0&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔥 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/bgross0/bgross0/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🗂️ Repository Insights
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgross0&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📌 Repository Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgross0&theme=tokyonight)
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bgross0&theme=tokyonight" alt="Repos per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgross0&theme=tokyonight" alt="Most Commit Language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgross0&theme=tokyonight" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bgross0&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const bgross0 = {
+    currentFocus: "Building scalable applications and learning new technologies",
+    openToWork: true,
+    lookingForCollab: ["Open Source Projects", "Innovative Startups", "Dev Tools"],
+    funFact: "I debug in production... with confidence 😎"
+};
+```
 
 ---
 
@@ -186,14 +143,24 @@ Your fourth featured project. Make it count by showcasing diversity in your skil
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect & Collaborate
 
 <div align="center">
 
+### Let's build something amazing together!
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bgross0)
+[![Repos](https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bgross0?tab=repositories)
+
+### 🌐 Find me around the web
+
+<!-- Add your actual social links here when ready -->
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+-->
 
 </div>
 
@@ -202,6 +169,8 @@ Your fourth featured project. Make it count by showcasing diversity in your skil
 <div align="center">
 
 ### 💼 Open to interesting opportunities and collaborations!
+
+![](https://komarev.com/ghpvc/?username=bgross0&style=for-the-badge&color=blueviolet)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
