@@ -63,6 +63,86 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 📌 Pinned Repositories
+
+</div>
+
+<!-- Automatically displays your pinned repos -->
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/bgross0/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bgross0&repo=another-cool-project&theme=tokyonight&hide_border=true)](https://github.com/bgross0/another-cool-project)
+
+</div>
+
+### 💼 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Project Name 1
+**[View Repository →](https://github.com/bgross0/project-name)**
+
+A brief description of what this project does and why it's awesome. Highlight the key features and technologies used.
+
+**Tech Stack:** `Python` `React` `PostgreSQL` `Docker`
+
+![Stars](https://img.shields.io/github/stars/bgross0/project-name?style=social)
+![Forks](https://img.shields.io/github/forks/bgross0/project-name?style=social)
+
+</td>
+<td width="50%">
+
+#### 🔥 Project Name 2
+**[View Repository →](https://github.com/bgross0/project-name-2)**
+
+Another amazing project that showcases your skills. Explain what problem it solves or what makes it unique.
+
+**Tech Stack:** `Node.js` `Next.js` `MongoDB` `AWS`
+
+![Stars](https://img.shields.io/github/stars/bgross0/project-name-2?style=social)
+![Forks](https://img.shields.io/github/forks/bgross0/project-name-2?style=social)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### ⚡ Project Name 3
+**[View Repository →](https://github.com/bgross0/project-name-3)**
+
+Describe this project and what you learned while building it. Share interesting challenges you overcame.
+
+**Tech Stack:** `TypeScript` `Vue.js` `FastAPI` `Redis`
+
+![Stars](https://img.shields.io/github/stars/bgross0/project-name-3?style=social)
+![Forks](https://img.shields.io/github/forks/bgross0/project-name-3?style=social)
+
+</td>
+<td width="50%">
+
+#### 🌟 Project Name 4
+**[View Repository →](https://github.com/bgross0/project-name-4)**
+
+Your fourth featured project. Make it count by showcasing diversity in your skill set.
+
+**Tech Stack:** `Go` `React Native` `Kubernetes` `GraphQL`
+
+![Stars](https://img.shields.io/github/stars/bgross0/project-name-4?style=social)
+![Forks](https://img.shields.io/github/forks/bgross0/project-name-4?style=social)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
