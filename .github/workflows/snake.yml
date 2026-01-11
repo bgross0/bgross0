@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - claude/build-profile-readme-uN0kR
 
 jobs:
   generate:
