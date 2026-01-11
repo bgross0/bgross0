@@ -135,10 +135,6 @@ const developer = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bgross0&custom_title=bgross0's%20Contribution%20Graph&bg_color=0D1117&color=A177F7&line=A177F7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### **3D Contribution Graph**
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ### **Detailed Repository Stats**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgross0&theme=tokyonight" width="100%"/>
@@ -185,23 +181,6 @@ const developer = {
     <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
-
-<!-- Uncomment and add your social links when ready
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
--->
 
 <br/>
 
