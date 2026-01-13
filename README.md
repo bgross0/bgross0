@@ -13,7 +13,7 @@ Full-stack developer specializing in **ERP / CRM business systems** and modern w
 **Currently working on:**
 - 🏢 Custom ERP/CRM implementations https://getprogrid.com
 - 🌐 Modern web applications with Astro and TypeScript https://opensky.axsys.dev & https://radar.axsys.dev
-- 📱 Cross-platform mobile applications (in development!)
+- 📱 Cross-platform mobile applications with Swift and React Native (in development!)
 - 🔧 DevOps automation and infrastructure - (Freeform and more!)
 
 **Open to:** Freelance projects • Business automation consulting • Open source collaboration
