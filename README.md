@@ -86,8 +86,8 @@ Self-hosted form backend on Cloudflare Workers
 
 ---
 
-### [🔧 Cloudflare Maintenance Page](https://github.com/bgross0/cloudflare-maintenance-page)
-Beautiful maintenance mode for Cloudflare Workers with hidden admin access
+### [🔧 CF Maintenance Mode](https://github.com/bgross0/cf-maintenance-mode)
+Beautiful maintenance page for Cloudflare Workers with hidden admin bypass and multi-site support
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
