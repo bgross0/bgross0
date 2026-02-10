@@ -120,8 +120,8 @@ Digital party game - Person, Place, Thing
 ## 📝 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bgross0/bgross0/pull/1) in [bgross0/bgross0](https://github.com/bgross0/bgross0)
-2. 💪 Opened PR [#1](https://github.com/bgross0/bgross0/pull/1) in [bgross0/bgross0](https://github.com/bgross0/bgross0)
+1. ❗ Opened issue [#2356](https://github.com/input-leap/input-leap/issues/2356) in [input-leap/input-leap](https://github.com/input-leap/input-leap)
+2. 🔒 Closed issue [#2355](https://github.com/input-leap/input-leap/issues/2355) in [input-leap/input-leap](https://github.com/input-leap/input-leap)
 <!--END_SECTION:activity-->
 
 ## 🤝 Connect
