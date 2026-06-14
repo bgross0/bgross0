@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ben</h1>
 
 <p align="center">
-  Full-stack developer building <strong>ERP/CRM business systems</strong>, modern web apps, and developer tools.<br/>
+  Full-stack developer building & breaking stuff.<br/>
   Python, TypeScript, PostgreSQL, Cloudflare, Docker.
 </p>
 
