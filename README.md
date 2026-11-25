@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Ben</h1>
 
 <p align="center">
-  Full-stack developer building stuff.<br/>
-  Python, TypeScript, PostgreSQL, Cloudflare, Docker.
+  AI & Agentic engineer building stuff.<br/>
+  Python, TypeScript, PostgreSQL, Linux, Docker.
 </p>
 
 <p align="center">
