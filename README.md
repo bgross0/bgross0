@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Ben</h1>
 
 <p align="center">
-  Full-stack developer building & breaking stuff.<br/>
+  Full-stack developer building stuff.<br/>
   Python, TypeScript, PostgreSQL, Cloudflare, Docker.
 </p>
 
 <p align="center">
-  <a href="https://getprogrid.com">ProGrid</a> · <a href="https://opensky.axsys.dev">OpenSky</a> · <a href="https://radar.axsys.dev">Radar</a>
+  <a href="https://cobuild.app">Cobuild</a> · <a href="https://opensky.axsys.dev">OpenSky</a> · <a href="https://radar.axsys.dev">Radar</a>
 </p>
 
 <div align="center">
